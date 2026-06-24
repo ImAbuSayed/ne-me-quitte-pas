@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ne Me Quitte Pas
+
+This log tracks the cryptographic history and versioning for the song **Ne Me Quitte Pas** (ne-me-quitte-pas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T19:36:01.382649 | `v1` | `5e91f8263e33bf40b0afe0b5953de9b5b75ddc61193c12a41c84e4cbfa311b18` | `f64b23e70c3a7f908638ce4a8517afbe5fb6287a47e8129b6518bdb5728eb162` | `2026-06-24_ne-me-quitte-pas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
