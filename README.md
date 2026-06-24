@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ne-me-quitte-pas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ne Me Quitte Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-me-quitte-pas/) |
+| **Get License** | [Secure Licensing Rights for Ne Me Quitte Pas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ne-me-quitte-pas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ne me quitte pas, la nuit nous appartient
+> Sous les néons de Paname, ton regard me retient
+> Laisse-toi faire, baby, just take my hand
+> Ton parfum m'enivre, je perds le contrôle, you understand?
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
